@@ -1,5 +1,8 @@
 # Data Science with Python: Google Certificate 
 
+### About instructer :
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/d4d2c280-e4a3-41f2-a9be-f27ca5bccb62" />
+
 ## Introduction
 Welcome to the Data Science with Python comprehensive guide. This repository covers essential topics and skills needed to master data science using Python, with a special focus on NumPy. This guide is perfect for beginners and intermediate learners looking to deepen their understanding of data science concepts and tools.
 ### Time duration : 3-Day in Week, 2H/day with 10 Min Break, course end : 15/07/2025
