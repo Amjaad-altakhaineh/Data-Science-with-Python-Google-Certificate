@@ -2,7 +2,7 @@
 
 ## Introduction
 Welcome to the Data Science with Python comprehensive guide. This repository covers essential topics and skills needed to master data science using Python, with a special focus on NumPy. This guide is perfect for beginners and intermediate learners looking to deepen their understanding of data science concepts and tools.
-
+### Time duration : 2H/D with 10 Min Break, course end : 15/07/2025
 ## Table of Contents
 1. [Introduction to Data Science and Python](#introduction-to-data-science-and-python)
 2. [Python Crash Course](#python-crash-course)
